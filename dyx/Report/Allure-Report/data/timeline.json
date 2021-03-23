@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TJxiong",
+    "children" : [ {
+      "name" : "11600-MainThread",
+      "children" : [ {
+        "name" : "test_点击登录按钮",
+        "uid" : "9bf167f5724a6b42",
+        "parentUid" : "4af3fee9776f27725130d38958fd87fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616478949999,
+          "stop" : 1616478950082,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_打开浏览器",
+        "uid" : "c7f617f1095b61a",
+        "parentUid" : "4af3fee9776f27725130d38958fd87fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616478947482,
+          "stop" : 1616478947482,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_输入密码",
+        "uid" : "d6e189d81f592b30",
+        "parentUid" : "4af3fee9776f27725130d38958fd87fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616478949781,
+          "stop" : 1616478949995,
+          "duration" : 214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_输入用户名",
+        "uid" : "b748cf0e2d758425",
+        "parentUid" : "4af3fee9776f27725130d38958fd87fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616478949311,
+          "stop" : 1616478949775,
+          "duration" : 464
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_输入访问地址",
+        "uid" : "7ceb76d36030072f",
+        "parentUid" : "4af3fee9776f27725130d38958fd87fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616478947487,
+          "stop" : 1616478949306,
+          "duration" : 1819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4af3fee9776f27725130d38958fd87fe"
+    } ],
+    "uid" : "654ef41a3d1454d5cbcc14c144f14663"
+  } ]
+}

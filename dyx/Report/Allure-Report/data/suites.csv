@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 23 13:55:47 CST 2021","Tue Mar 23 13:55:49 CST 2021","1819","PageObject.LoginPage","LoginPage","Test_在登录界面","","","test_输入访问地址",""
+"passed","Tue Mar 23 13:55:49 CST 2021","Tue Mar 23 13:55:49 CST 2021","464","PageObject.LoginPage","LoginPage","Test_在登录界面","","","test_输入用户名",""
+"passed","Tue Mar 23 13:55:47 CST 2021","Tue Mar 23 13:55:47 CST 2021","0","PageObject.LoginPage","LoginPage","Test_在登录界面","","","test_打开浏览器",""
+"passed","Tue Mar 23 13:55:49 CST 2021","Tue Mar 23 13:55:50 CST 2021","83","PageObject.LoginPage","LoginPage","Test_在登录界面","","","test_点击登录按钮",""
+"passed","Tue Mar 23 13:55:49 CST 2021","Tue Mar 23 13:55:49 CST 2021","214","PageObject.LoginPage","LoginPage","Test_在登录界面","","","test_输入密码",""

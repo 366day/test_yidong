@@ -1,0 +1,59 @@
+{
+  "uid" : "7ceb76d36030072f",
+  "name" : "test_输入访问地址",
+  "fullName" : "PageObject.LoginPage.LoginPage.Test_在登录界面#test_输入访问地址",
+  "historyId" : "276fc2d523fca35de1380bb96888609c",
+  "time" : {
+    "start" : 1616478947487,
+    "stop" : 1616478949306,
+    "duration" : 1819
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "PageObject.LoginPage"
+  }, {
+    "name" : "suite",
+    "value" : "LoginPage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_在登录界面"
+  }, {
+    "name" : "host",
+    "value" : "TJxiong"
+  }, {
+    "name" : "thread",
+    "value" : "11600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "PageObject.LoginPage.LoginPage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(2)" ]
+  },
+  "source" : "7ceb76d36030072f.json",
+  "parameterValues" : [ ]
+}
