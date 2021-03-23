@@ -1,0 +1,31 @@
+2021-03-22 17:46:42,168 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[name="username"]')
+2021-03-22 17:46:42,185 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:49] - INFO: 清空('css selector', '[name="username"]')
+2021-03-22 17:46:42,314 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:52] - INFO: 输入('css selector', '[name="username"]')
+2021-03-22 17:46:42,407 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[name="password"]')
+2021-03-22 17:46:42,425 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:49] - INFO: 清空('css selector', '[name="password"]')
+2021-03-22 17:46:42,485 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:52] - INFO: 输入('css selector', '[name="password"]')
+2021-03-22 17:46:42,592 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', 'div button span')
+2021-03-22 17:46:42,593 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', 'div button span')
+2021-03-22 17:46:42,718 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', '[class="menu-icon menu_res"]')
+2021-03-22 17:46:42,719 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[class="menu-icon menu_res"]')
+2021-03-22 17:46:44,807 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('xpath', '/html/body/div/div[1]/div[2]/ul[2]/li[2]')
+2021-03-22 17:46:44,808 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('xpath', '/html/body/div/div[1]/div[2]/ul[2]/li[2]')
+2021-03-22 17:46:44,917 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:57] - INFO: 获取('css selector', '[id="resource/res.html"]')文本
+2021-03-22 17:46:44,917 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[id="resource/res.html"]')
+2021-03-22 17:46:44,992 - E:\yidong_web\IP_Intelligent_system\case\test_ziyuan.py [line:28] - INFO: 正在断言
+2021-03-22 17:46:45,009 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[src="resource/res.html"]')
+2021-03-22 17:46:48,433 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:46:48,434 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:46:48,575 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', '[class="vue-treeselect__label"]')
+2021-03-22 17:46:48,575 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[class="vue-treeselect__label"]')
+2021-03-22 17:47:18,935 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:21] - ERROR: ('css selector', '[class="vue-treeselect__label"]')元素超时,没有获取到此元素
+2021-03-22 17:47:19,266 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:47:19,267 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:47:19,405 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', '[data-id="NOD9999"] div svg')
+2021-03-22 17:47:19,405 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[data-id="NOD9999"] div svg')
+2021-03-22 17:47:49,748 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:21] - ERROR: ('css selector', '[data-id="NOD9999"] div svg')元素超时,没有获取到此元素
+2021-03-22 17:47:49,824 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:47:49,825 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', 'div [class="vue-treeselect__input"]')
+2021-03-22 17:47:49,908 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:41] - INFO: 点击('css selector', ' [data-id="NOD9999"] [class="vue-treeselect__option-arrow-container"]')
+2021-03-22 17:47:49,908 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', ' [data-id="NOD9999"] [class="vue-treeselect__option-arrow-container"]')
+2021-03-22 17:48:20,213 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:21] - ERROR: ('css selector', ' [data-id="NOD9999"] [class="vue-treeselect__option-arrow-container"]')元素超时,没有获取到此元素

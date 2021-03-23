@@ -1,0 +1,13 @@
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:49 清空('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:52 输入('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:49 清空('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:52 输入('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:41 点击('css selector', 'div button span')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', 'div button span')
+[32mINFO    [0m root:base.py:66 正在截图
+[32mINFO    [0m root:base.py:74 页面截图文件保存在：../yidong_web/IP_Intelligent_system/image/2021_03_23 08_57_03.png
+[31m[1mERROR   [0m root:test_login.py:23 assert 1 == 2
+  +1
+  -2

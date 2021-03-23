@@ -1,0 +1,8 @@
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:49 清空('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:52 输入('css selector', '[name="username"]')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:49 清空('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:52 输入('css selector', '[name="password"]')
+[32mINFO    [0m root:base.py:41 点击('css selector', 'div button span')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', 'div button span')

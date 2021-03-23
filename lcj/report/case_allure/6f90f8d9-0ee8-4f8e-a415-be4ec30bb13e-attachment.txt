@@ -1,0 +1,7 @@
+[32mINFO    [0m root:base.py:41 点击('css selector', '[class="menu-icon menu_res"]')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[class="menu-icon menu_res"]')
+[32mINFO    [0m root:base.py:41 点击('xpath', '/html/body/div/div[1]/div[2]/ul[2]/li[2]')
+[32mINFO    [0m root:base.py:16 查找元素('xpath', '/html/body/div/div[1]/div[2]/ul[2]/li[2]')
+[32mINFO    [0m root:base.py:57 获取('css selector', '[id="resource/res.html"]')文本
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[id="resource/res.html"]')
+[32mINFO    [0m root:test_ziyuan.py:28 正在断言

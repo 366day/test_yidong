@@ -1,0 +1,4 @@
+2021-03-22 17:29:15,577 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:16] - INFO: 查找元素('css selector', '[name="username"]')
+2021-03-22 17:29:15,579 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:21] - ERROR: ('css selector', '[name="username"]')元素超时,没有获取到此元素
+2021-03-22 17:29:15,579 - E:\yidong_web\IP_Intelligent_system\base\base.py [line:49] - INFO: 清空('css selector', '[name="username"]')
+2021-03-22 17:29:24,236 - E:\yidong_web\IP_Intelligent_system\case\test_ziyuan.py [line:19] - ERROR: 登陆失败

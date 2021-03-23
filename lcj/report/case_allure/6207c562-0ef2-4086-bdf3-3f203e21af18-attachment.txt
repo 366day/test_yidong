@@ -1,0 +1,6 @@
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[src="resource/res.html"]')
+[32mINFO    [0m root:base.py:41 点击('css selector', 'div [class="vue-treeselect__input"]')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', 'div [class="vue-treeselect__input"]')
+[32mINFO    [0m root:base.py:41 点击('css selector', '[class="vue-treeselect__label"]')
+[32mINFO    [0m root:base.py:16 查找元素('css selector', '[class="vue-treeselect__label"]')
+[31m[1mERROR   [0m root:base.py:21 ('css selector', '[class="vue-treeselect__label"]')元素超时,没有获取到此元素
