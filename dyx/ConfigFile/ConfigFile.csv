@@ -1,2 +1,0 @@
-功能模块,脚本路径,脚本名称,类名,测试用例名称,执行状态(YES/NO),执行顺序
-测试登录,../PageObject/LoginPage,LoginPage.py,Test_在登录界面,test_打开浏览器,YES,
